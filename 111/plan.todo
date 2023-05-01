@@ -1,0 +1,17 @@
+Записная книжка: 
+  - ТЗ: консольное приложение с возможностью добавления и удаления
+  - Node JS (что такое, как установить)
+  - Чтение, fs.readFileSync
+  - Запись, fs.writeFileSync
+  - Берём информацию из командной строки: process.argv
+  - Добавить прогресс загрузки
+    - npm init
+    - package.json
+    - сторонние пакеты
+  - Рефакторинг приложения на модули Common JS
+
+Дополнительно: 
+  - npx (cat-me)
+  - ESLint, devDependencies
+  - npx create-gitignore Node
+  - флаг -g -D
